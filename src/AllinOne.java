@@ -436,7 +436,7 @@ public class AllinOne {
      //   int[] nums = {1, 3, 5, 7, 9, 11, 15, 19, 25};
         //   Arrays.sort(nums);
         // String s = "lkmeleetcode";
-       // String s ="madam";
+       String s ="madam";
       //  String s="  hello world  ";
         //char[] s = {'h','e','l','l','o'};
 
