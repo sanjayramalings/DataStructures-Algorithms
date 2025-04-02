@@ -396,7 +396,7 @@ public class AllinOne {
 
 
    public static String ReverseWordsStack(String s)
-{
+    {
     StringBuffer sb= new StringBuffer();
     Stack<String> hm1= new Stack<>();
     String[] words = s.trim ().split ("\\s+");
@@ -428,9 +428,7 @@ public class AllinOne {
 
         //return sb.toString().trim();
     }
-    public static boolean isValid(String s)
-     {
-    }
+
 
         public static void main(String[] args) {
      //   int[] nums = {1, 3, 5, 7, 9, 11, 15, 19, 25};
