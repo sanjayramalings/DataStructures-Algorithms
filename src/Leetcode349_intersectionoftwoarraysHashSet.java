@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class intersectionHashSet {
+public class Leetcode349_intersectionoftwoarraysHashSet {
     public static int[] intersectionHashSet(int[] nums1, int[] nums2)
     {
         HashSet<Integer> souceset= new HashSet<>();

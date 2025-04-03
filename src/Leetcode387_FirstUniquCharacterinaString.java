@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Leetcode387FirstUniquCharacterinaString {
+public class Leetcode387_FirstUniquCharacterinaString {
     public static int firstUniqChar(String s) {
         StringBuffer sb1 = new StringBuffer ();
         HashMap<Character, Integer> hm1 = new HashMap<> ();

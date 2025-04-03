@@ -3,7 +3,7 @@ import java.util.*;
 
 
 //https://leetcode.com/problems/reverse-string/description/
-public class Leetcode344RevereseStringStack {
+public class Leetcode344_RevereseStringStack {
 
     public  static void reverseStringStack(char[] s)
     {

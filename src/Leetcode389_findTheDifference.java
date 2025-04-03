@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class findTheDifference {
+public class Leetcode389_findTheDifference {
 
     public static char findTheDifference(String s, String t)
     {
