@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class SerachMethods_BinarySearch {
 
     public static int BinarySearch(int [] nums, int target)
     {

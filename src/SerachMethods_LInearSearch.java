@@ -1,4 +1,4 @@
-public class LInearSearch {
+public class SerachMethods_LInearSearch {
     public static int LinearSearch(int[] nums, int target) {
         int len = nums.length - 1;
         for (int i = 0; i <= len; i++) {

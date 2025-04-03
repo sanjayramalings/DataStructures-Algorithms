@@ -1,4 +1,4 @@
-public class Leetcode136SingleNumberBruteforce {
+public class Leetcode136_SingleNumberBruteforce {
 
 
 

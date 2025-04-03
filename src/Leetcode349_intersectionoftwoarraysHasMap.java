@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class intersectionHasMap {
+public class Leetcode349_intersectionoftwoarraysHasMap {
     public static int[] intersectionHasMap(int[] nums1, int[] nums2) {
 
         HashMap<Integer, Integer> hm1 = new HashMap<> ();
