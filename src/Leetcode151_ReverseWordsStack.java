@@ -2,7 +2,7 @@ import java.util.Stack;
 
 //https://leetcode.com/problems/reverse-words-in-a-string/description/
 
-public class Leetcode151ReverseWordsStack {
+public class Leetcode151_ReverseWordsStack {
 
 
 

@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class findTheDifferencetwo {
+public class Leetcode389_findTheDifferenceHashMap {
     public static char findTheDifferenceHashMAp(String s, String t)
     {
 

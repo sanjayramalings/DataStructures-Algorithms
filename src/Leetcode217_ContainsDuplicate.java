@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Leetcode217ContainsDuplicate {
+public class Leetcode217_ContainsDuplicate {
 
     public static boolean containsDuplicate(int[] nums) {
 

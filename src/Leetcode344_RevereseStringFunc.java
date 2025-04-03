@@ -1,9 +1,6 @@
-import java.util.*;
-
-
 //https://leetcode.com/problems/reverse-string/description/
 
-public class Leetcode344RevereseStringFunc {
+public class Leetcode344_RevereseStringFunc {
 
      public static void funcreverseStringvoid(char[] s)
      {

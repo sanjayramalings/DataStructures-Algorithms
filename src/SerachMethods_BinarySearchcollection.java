@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BinarySearchcollection {
+public class SerachMethods_BinarySearchcollection {
     public static int BinarySearchcollection(int [] nums, int target)
     {
         int num= Arrays.binarySearch(nums,target);

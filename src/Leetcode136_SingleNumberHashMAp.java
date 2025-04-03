@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Leetcode136SingleNumberHashMAp {
+public class Leetcode136_SingleNumberHashMAp {
 
     public static int SingleIntegerHashmap(int[] nums) {
         //   Arrays.sort(nums);
