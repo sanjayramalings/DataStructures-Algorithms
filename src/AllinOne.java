@@ -326,7 +326,7 @@ public class AllinOne {
                 int j=hm1.get(nums1[i]);
                 if( Math.abs(i-j)<=target) return true;
             }
-            else hm1.put(nums1[i],i);
+            hm1.put(nums1[i],i);
         }
         return false;
     }

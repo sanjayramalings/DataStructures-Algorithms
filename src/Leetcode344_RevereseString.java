@@ -1,8 +1,5 @@
-import java.util.*;
-
-
 //https://leetcode.com/problems/reverse-string/description/
-public class Leetcode344RevereseString {
+public class Leetcode344_RevereseString {
     public static String reverseString(char[] s)
     {
         StringBuffer sc = new StringBuffer();

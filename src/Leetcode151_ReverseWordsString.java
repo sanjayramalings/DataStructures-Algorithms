@@ -1,9 +1,6 @@
-import java.util.*;
-
-
 //https://leetcode.com/problems/reverse-words-in-a-string/description/
 
-public class Leetcode151ReverseWordsString {
+public class Leetcode151_ReverseWordsString {
 
     public static String ReverseWordsString(String s) {
         String[] words = s.trim ().split ("\\s+");
